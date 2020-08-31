@@ -5,20 +5,11 @@
 - title: Blog
   url: /blog/
 
-- title: Business
+- title: About
   url: /category/business/
 
-- title: Culture
+- title: Contact
   url: /category/culture/
 
-- title: Travel
+- title: Services
   url: /category/travel/
-
-- title: Sport
-  url: /category/sport/
-
-- title: Contact
-  url: /contact/
-  
-- title: 404
-  url: /404/

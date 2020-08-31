@@ -10,8 +10,8 @@ description: Magazine Jekyll theme for writers and bloggers.
 url: https://project-emily.com
 baseurl: "" # Site subpath, e.g. /blog
 logo_image:
-  dark: # Dark logo e.g logo-dark.svg upload to /uploads/ folder, used in header, mobile navigation and page sidebar About widget
-  light: # Light logo e.g. logo-light.svg upload to /uploads/ folder, used in footer About widget
+  dark: /logo/PE-horizontal-logo.png # Dark logo e.g logo-dark.svg upload to /uploads/ folder, used in header, mobile navigation and page sidebar About widget
+  light: /logo/Project Emily Logos.png # Light logo e.g. logo-light.svg upload to /uploads/ folder, used in footer About widget
 permalink: /:title/ # Permalink URLs structure, for permalink style options see: https://jekyllrb.com/docs/permalinks/
 date_format: "%B %-d, %Y" # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 uploads: /uploads/ # Path to post content assets directory i.e post images, pdfs etc
@@ -34,27 +34,27 @@ navbar_primary:
 
 # Social share buttons
 social_share:
-  twitter: true
+  twitter: false
   facebook: true
   linkedin: true
   pinterest: true
-  reddit: true
+  reddit: false
 
 # Social networks
 social_networks:
-  email:
+  email: emily@project-emily.com
   website:
   facebook: https://www.facebook.com/
   flickr:
   dribbble:
   github:
   reddit:
-  instagram: https://www.instagram.com/
-  linkedin:
-  pinterest:
-  twitter: https://twitter.com/
+  instagram: https://www.instagram.com/projectemilyblog
+  linkedin: https://www.linkedin.com/in/emily-mcdonald-5077a71b5/
+  pinterest: https://www.pinterest.com/ear1340100
+  # twitter: https://twitter.com/
   vimeo:
-  youtube: https://www.youtube.com/
+  # youtube: https://www.youtube.com/
 
 # Strings
 strings:
@@ -106,7 +106,7 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: page
+      layout: author
       sidebar: left
   # _authors
   - scope:
