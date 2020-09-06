@@ -1,9 +1,13 @@
 ---
-title: Formspree Contact Form
+title: Contact Emily
 permalink: /contact/
 sidebar: none
 ---
 
-The they'd phase ready well, do word high from the answering I cognitive different the once it I design especially design the they. Occasion but help came encourage you mainly gradually the determined room. Been afforded a is reclined due sufficiently the I slogging her he with empire.
+<center>Interested in having your book reviewed on Project Emily?<br>  
+Ready to utilize my content marketing services to grow your business?<br>  
+Have ideas of books I should cover on Project Emily?<br>  
+<br>
+Let’s talk!</center>
 
-{% include formspree.html email="my_name@gmail.com" redirect="/thanks/" %}
+{% include formspree.html email="emily@project-emily.com" redirect="/thanks/" %}

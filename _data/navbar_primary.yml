@@ -12,10 +12,10 @@ center:
     url: /about/
 
   - title: Contact
-    url: /category/travel/
+    url: /contact/
 
   - title: Services
-    url: /category/culture/
+    url: /services/
 
   - title: Pages
     dropdown:
