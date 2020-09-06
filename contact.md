@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Contact Emily
 permalink: /contact/
 sidebar: none

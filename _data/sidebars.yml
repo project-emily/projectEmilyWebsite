@@ -11,47 +11,41 @@ page:
   - widget: authors
     title: CONTRIBUTORS
     count: 5
-    
+
 # Footer sidebar widgets
 footer:
-  - widget: recent
-    title: RECENT POSTS
-    count: 4
-
-  - widget: links
-    title: ABOUT
-    links:
-      - title: "About Us"
-        url: /#/
-      - title: "Our Story"
-        url: /#/
-      - title: "Contribute"
-        url: /#/
-      - title: "Terms"
-        url: /#/
-      - title: "Contact"
-        url: /contact/
-
-  - widget: links
-    title: PRODUCTS
-    links:
-      - title: "Advertising"
-        url: /#/
-      - title: "Featured Story"
-        url: /#/
-      - title: "Donations"
-        url: /#/
-      - title: "Charity"
-        url: /#/
-
-  - widget: categories
-    title: CATEGORIES
-    count: 5
-
-  - widget: authors
-    title: CONTRIBUTORS
-    count: 5
-
   - widget: about
+    title: Project Emily
     # content: Content of some sort..
     copyright: true
+
+  - widget: links
+    title: PROJECT EMILY
+    links:
+      - title: "About Me"
+        url: /about/
+      - title: "Contact"
+        url: /contact/
+      - title: "Services"
+        url: /services/
+
+  - widget: recent
+    title: RECENT POSTS
+    count: 3
+  # - widget: links
+  #   title: PRODUCTS
+  #   links:
+  #     - title: "Advertising"
+  #       url: /#/
+  #     - title: "Featured Story"
+  #       url: /#/
+  #     - title: "Donations"
+  #       url: /#/
+  #     - title: "Charity"
+  #       url: /#/
+  # - widget: categories
+  #   title: CATEGORIES
+  #   count: 5
+  # - widget: authors
+  #   title: CONTRIBUTORS
+  #   count: 5
