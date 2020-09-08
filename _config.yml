@@ -19,7 +19,7 @@ paginate: 7 # Number of posts displayed on blog page
 paginate_path: "/blog/:num/" # Blog path
 google_analytics: # Google analytics code, get your code here https://www.google.com/analytics/
 disqus:
-  shortname: https-project-emily-com
+  # shortname: https-project-emily-com
 
 instagram_accesstoken:
 
