@@ -1,7 +1,7 @@
 ---
 title: 5 Reese’s Book Club Recs that Captivated Me this Year
 image: ../uploads/img/blogs/5-reese's-book-club-recs/holding-such-a-fun-age.jpg
-categories: [business]
+# categories: [business]
 tags: [featured, spotlight]
 hidden: false
 author: Emily

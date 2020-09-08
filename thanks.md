@@ -1,19 +1,15 @@
 ---
 layout: author
-title: Thanks
+title:
 permalink: /thanks/
 image: /img/PE-headshot.JPG
 email: emily@project-emily.com
-facebook: https://www.facebook.com/
+facebook: https://www.facebook.com/projectemilyblog
 instagram: https://www.instagram.com/projectemilyblog/
 linkedin: https://www.linkedin.com/in/emily-mcdonald-5077a71b5/
 pinterest: https://www.pinterest.com/ear1340100
 ---
 
-Varius tempor. Nulla non sollicitudin tortor. Morbi sit amet laoreet ipsum, vel pretium mi. Morbi varius, tellus in accumsan blandit, elit ligula eleifend velit, luctus mattis ante nulla condimentum nulla.
+<center><h1>You're in!</h1></center>
 
-Ut malesuada varius tempor. Nulla non sollicitudin tortor. Morbi sit amet laoreet ipsum, vel pretium mi. Morbi varius, tellus in accumsan blandit, elit ligula eleifend velit, luctus mattis ante nulla condimentum nulla.
-
-Mesuada varius tempor. Nulla non sollicitudin tortor. Morbi sit amet laoreet ipsum, vel pretium mi. Morbi varius, tellus in accumsan blandit, elit ligula eleifend velit, luctus mattis ante nulla condimentum nulla.
-
-Varius tempor. Nulla non sollicitudin tortor. Morbi sit amet laoreet ipsum, vel pretium mi. Morbi varius, tellus in accumsan blandit, elit ligula eleifend velit, luctus mattis ante nulla condimentum nulla.
+<p style="font-size: 25px; text-align: center">Thank you for subscribing to Project Emily. <br>More book review goodness is headed your way.</p>

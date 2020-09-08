@@ -1,14 +1,14 @@
 ---
 title: 5 Hilarious Picture Books Your Preschooler (and You!) Will Love
 image: ../uploads/img/blogs/hilarious-picture-books/emily-reading-to-kid.JPG
-categories: [kids, fiction, nonfiction]
+# categories: [kids, fiction, nonfiction]
 tags: [spotlight]
 hidden: false
 author: Emily
 added-excerpt: When it comes to reading picture books with kids, reading the same stories over and over can become somewhat of a drag. Stories intent on teaching a lesson or introducing a new concept certainly have their place, but sometimes your kids (and you) just need a laugh.
 ---
 
-<style> em {color: black;} p a {color: #f0506e;}</style>
+<style> em {color: black;} p a {color: #f0506e;} a:hover em {color: #f0506e;}</style>
 
 When it comes to reading picture books with kids, reading the same stories over and over can become somewhat of a drag. Stories intent on teaching a lesson or introducing a new concept certainly have their place, but sometimes your kids (and you) just need a laugh. My favorite picture books to read at my library story times are picture books that have made me laugh out loud and when I’m getting laughs from both parents and kids, I know I’ve picked a good one. There’s something about child and adult laughing together that is incredibly bonding and makes story time (or bed time) a lot more fun. Here are 5 books that will make both kids and adults laugh out loud.
 
@@ -22,7 +22,7 @@ My hands-down, absolute favorite picture book right now, I read this to my five 
 
 ### [Dragons Love Tacos by Adam Rubin](https://www.amazon.com/gp/product/0803736800/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0803736800&linkCode=as2&tag=projectemily1-20&linkId=fef5a7fdfe7b44d6176d745ede34d537)
 
-Did you know that dragons love tacos? Even more, did you know that absolutely, positively, no exceptions, haaaaaaate spicy salsa even more? _Dragons Love Tacos_ by writer Adam Rubin and illustrator Daniel Salmieri invites you into the world of dragons and their love for, you guessed it, tacos. But under no circumstances should there be any spicy salsa on these tacos. Trust me, you don’t want to find out what happens if this sacred rule is broken. This author/illustrator duo are responsible for several of my favorite picture books, such as _Secret Pizza Party_, _Robo-Sauce_, and _High Five_. For even more dragon-taco fun, read the sequel to _Dragons Love Tacos_, _Dragons Love Tacos 2_.
+Did you know that dragons love tacos? Even more, did you know that absolutely, positively, no exceptions, haaaaaaate spicy salsa even more? _Dragons Love Tacos_ by writer Adam Rubin and illustrator Daniel Salmieri invites you into the world of dragons and their love for, you guessed it, tacos. But under no circumstances should there be any spicy salsa on these tacos. Trust me, you don’t want to find out what happens if this sacred rule is broken. For even more dragon-taco fun, read the sequel, [_Dragons Love Tacos 2_](https://www.amazon.com/gp/product/0525428887/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0525428887&linkCode=as2&tag=projectemily1-20&linkId=8662b9aabf6528f4a28772c14701916c).
 
 {% include image.html img="../uploads/img/blogs/hilarious-picture-books/waiting-is-not-easy.jpg" href="https://www.amazon.com/gp/product/142319957X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=142319957X&linkCode=as2&tag=projectemily1-20&linkId=051838699943c313d4ef538de9b23450" alt="Alt for image" align="left" %}
 

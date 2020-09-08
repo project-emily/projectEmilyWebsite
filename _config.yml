@@ -6,7 +6,7 @@
 
 # Site settings
 title: Project Emily
-description: Magazine Jekyll theme for writers and bloggers.
+description: Exploring fiction, nonfiction, and children’s books, Project Emily is the best spot for honest book recommendations.
 url: https://project-emily.com
 baseurl: "" # Site subpath, e.g. /blog
 logo_image:
@@ -44,7 +44,7 @@ social_share:
 social_networks:
   email: emily@project-emily.com
   website:
-  facebook: https://www.facebook.com/
+  facebook: https://www.facebook.com/projectemilyblog
   flickr:
   dribbble:
   github:
