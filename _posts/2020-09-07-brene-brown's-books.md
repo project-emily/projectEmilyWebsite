@@ -14,17 +14,17 @@ I first encountered Dr. Brené Brown the same way many did— through her TEDX T
 
 Dr. Brown is a qualitative researcher, and her books are full of stories from in-depth interviews. Similar ideas of courage, vulnerability, and authenticity come up again and again in Brown’s research and in her books. Brown is often repetitive, but not in the way that indicates unclear messaging or poor editing. She is repetitive the way a teacher is— carefully circling back to ideas she has already introduced to be sure that you’re keeping up— she is a professor, after all. However, I don’t recommend reading all of her books in immediate succession. You may feel tempted to gulp the material like a glass of water in the middle of the desert, like I did. I recommend taking it slowly, little sips here and there, so that you can absorb the information in a more lasting way. I have recommendations for which book to tackle first, which book to read if you could only read one, and how to find the book most relevant to you. Here is my quick rundown of Brené Brown’s most popular books.
 
-{% include image.html img="../uploads/img/blogs/brene-brown's-books/the-gifts.jpg" alt="Alt for image" align="left" %}
+{% include image.html img="../uploads/img/blogs/brene-brown's-books/the-gifts.jpg" href="https://www.amazon.com/gp/product/159285849X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=159285849X&linkCode=as2&tag=projectemily1-20&linkId=24c28c00cae46b15ba9e6b34be98b477" alt="Alt for image" align="left" %}
 
-### The Gifts of Imperfection
+### [The Gifts of Imperfection](https://www.amazon.com/gp/product/159285849X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=159285849X&linkCode=as2&tag=projectemily1-20&linkId=24c28c00cae46b15ba9e6b34be98b477)
 
 If you’re interested in a deep-dive into Brown’s work, you should start here. Authenticity and acceptance are at the center of _The Gifts_, and it is foundational understanding if you’re interested in exploring her research in vulnerability and courage. _The Gifts_ is an important read for any self-diagnosed perfectionists out there, and for those who love them. In _The Gifts_ of Imperfection, Brown writes on what it takes to cultivate true authenticity in your life and the things that often stand in the way.
 
 Through years of qualitative research through in-depth interviews, Brown has discovered that “The Wholehearted”, the term she uses to describe those who have a deep sense of worthiness, connection, and belonging, all practice courage, compassion, and vulnerability. Vulnerability, which Brown describes as emotional risk and exposure, is absolutely essential to **wholehearted** living. Vulnerability is a major key in releasing the idea of the perfect person you think you’re supposed to be, and embracing your authentic identity. _The Gifts_ of Imperfection is brief while profound, a great read for anyone intrigued by the possibility of cultivating real courage and connection.
 
-{% include image.html img="../uploads/img/blogs/brene-brown's-books/daring-greatly.jpg" alt="Alt for image" align="right" %}
+{% include image.html img="../uploads/img/blogs/brene-brown's-books/daring-greatly.jpg" href="https://www.amazon.com/gp/product/1592408419/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1592408419&linkCode=as2&tag=projectemily1-20&linkId=d0544847ffd0e7d316f58d08cfab522e" alt="Alt for image" align="right" %}
 
-### Daring Greatly
+### [Daring Greatly](https://www.amazon.com/gp/product/1592408419/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1592408419&linkCode=as2&tag=projectemily1-20&linkId=d0544847ffd0e7d316f58d08cfab522e)
 
 If you only read one of Brown’s books, _Daring Greatly_ should be the one. The heart of Brown’s work and her TED Talks, cultivating vulnerability and tackling shame are at the center of _Daring Greatly_. **Daring greatly** is an expression for choosing courage in emotional vulnerability, getting its name from Teddy Roosevelt’s _The Man in the Arena_ quote:
 
@@ -32,9 +32,9 @@ If you only read one of Brown’s books, _Daring Greatly_ should be the one. The
 
 Brown points out that while our culture consistently tries to convince us that vulnerability is weakness, this could not be further from the truth. The willingness to be emotionally vulnerable, to risk hurt, to put oneself in the position to potentially fail, is the bravest thing a person can do. The one who is willing to step into the arena, risk failure, is the one who **dares greatly**. Our struggle for worthiness and connection is at the core of humanity— and true belonging and authenticity belong to those who are willing to risk.
 
-{% include image.html img="../uploads/img/blogs/brene-brown's-books/rising-strong .jpg" alt="Alt for image" align="left" %}
+{% include image.html img="../uploads/img/blogs/brene-brown's-books/rising-strong .jpg" href="https://www.amazon.com/gp/product/081298580X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=081298580X&linkCode=as2&tag=projectemily1-20&linkId=f4d7a6456b876b7bc3981ebf72e8e3d0" alt="Alt for image" align="left" %}
 
-### Rising Strong
+### [Rising Strong](https://www.amazon.com/gp/product/081298580X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=081298580X&linkCode=as2&tag=projectemily1-20&linkId=f4d7a6456b876b7bc3981ebf72e8e3d0)
 
 My personal favorite of Brown’s books, _Rising Strong_ continues fleshing out her research on how the wholehearted live. _Daring Greatly_ and _Rising Strong_ work sort of like a team, and I wouldn't recommend reading one without the other. If you’re like me, you may come across the ideas of Daring Greatly and think to yourself: _This vulnerability stuff sounds great...until I fall on my face and it hurts like hell_. A continuation of the principles of wholehearted living, Rising Strong addresses the inevitable falls that accompany daring greatly.
 
@@ -47,20 +47,20 @@ Brown writes,
 
 The next step in understanding the wholehearted is understanding the way they handle pain and heartbreak. What do you do when you fall in the arena? In _Rising Strong_, Brown explains what it looks like to own our failures and our stories, remain curious about our emotions, and how to rumble with what comes next. This book is a necessary follow-up to _Daring Greatly_, full of practical advice for owning your story and choosing a new ending.
 
-{% include image.html img="../uploads/img/blogs/brene-brown's-books/braving-the-wilderness.jpg" alt="Alt for image" align="right" %}
+{% include image.html img="../uploads/img/blogs/brene-brown's-books/braving-the-wilderness.jpg" href="https://www.amazon.com/gp/product/0812985818/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0812985818&linkCode=as2&tag=projectemily1-20&linkId=98ca99324cbfaed86eb3d83d69bfdfb2" alt="Alt for image" align="right" %}
 
-### Braving the Wilderness
-
-_Braving The WIlderness_ is sort of a lone wolf among Brown’s books and can be read at any point in your exploration of her work. While belonging and vulnerability are common themes in Brown’s research, _Braving the Wilderness_ centers on what it looks like to find true belonging and authenticity when you’re standing alone.
-
-I had the opportunity to hear Brown speak on her national book tour for _Braving the Wilderness_ in 2017, where she shared her personal experiences of **braving the wilderness**. Brown describes the wilderness as standing in true authenticity in a culture increasingly demanding that we pick sides and prove our loyalty. Braving the wilderness sometimes looks like exchanging the either/or for the both/and, and refusing to bunker down in an echo chamber filled with only those who think exactly as we do. Brown describes four practices in learning to brave the wilderness, and, in qualitative researcher fashion, writes story after story of examples to glean from. This book is perfect for someone interested in finding true authenticity in an increasingly polarized world.
-
-{% include image.html img="../uploads/img/blogs/brene-brown's-books/dare-to-lead.jpg" alt="Alt for image" align="left" %}
-
-### Dare to Lead
+### [Braving the Wilderness](https://www.amazon.com/gp/product/0812985818/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0812985818&linkCode=as2&tag=projectemily1-20&linkId=98ca99324cbfaed86eb3d83d69bfdfb2)
 
 _Braving The WIlderness_ is sort of a lone wolf among Brown’s books and can be read at any point in your exploration of her work. While belonging and vulnerability are common themes in Brown’s research, _Braving the Wilderness_ centers on what it looks like to find true belonging and authenticity when you’re standing alone.
 
 I had the opportunity to hear Brown speak on her national book tour for _Braving the Wilderness_ in 2017, where she shared her personal experiences of **braving the wilderness**. Brown describes the wilderness as standing in true authenticity in a culture increasingly demanding that we pick sides and prove our loyalty. Braving the wilderness sometimes looks like exchanging the either/or for the both/and, and refusing to bunker down in an echo chamber filled with only those who think exactly as we do. Brown describes four practices in learning to brave the wilderness, and, in qualitative researcher fashion, writes story after story of examples to glean from. This book is perfect for someone interested in finding true authenticity in an increasingly polarized world.
 
-Thank you for taking the time to read my rundown of Dr. Brené Brown’s most popular books. Want book recommendations delivered right to your inbox? Join my email list [here]("https://project-emily.us17.list-manage.com/subscribe/post?u=903c550764d419b6f6da0516d&id=c9c298b88a").
+{% include image.html img="../uploads/img/blogs/brene-brown's-books/dare-to-lead.jpg" href="https://www.amazon.com/gp/product/0399592520/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0399592520&linkCode=as2&tag=projectemily1-20&linkId=b937f4538a7b949c4afcbbb5f207306a" alt="Alt for image" align="left" %}
+
+### [Dare to Lead](https://www.amazon.com/gp/product/0399592520/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0399592520&linkCode=as2&tag=projectemily1-20&linkId=b937f4538a7b949c4afcbbb5f207306a)
+
+_Braving The WIlderness_ is sort of a lone wolf among Brown’s books and can be read at any point in your exploration of her work. While belonging and vulnerability are common themes in Brown’s research, _Braving the Wilderness_ centers on what it looks like to find true belonging and authenticity when you’re standing alone.
+
+I had the opportunity to hear Brown speak on her national book tour for _Braving the Wilderness_ in 2017, where she shared her personal experiences of **braving the wilderness**. Brown describes the wilderness as standing in true authenticity in a culture increasingly demanding that we pick sides and prove our loyalty. Braving the wilderness sometimes looks like exchanging the either/or for the both/and, and refusing to bunker down in an echo chamber filled with only those who think exactly as we do. Brown describes four practices in learning to brave the wilderness, and, in qualitative researcher fashion, writes story after story of examples to glean from. This book is perfect for someone interested in finding true authenticity in an increasingly polarized world.
+
+Thank you for taking the time to read my rundown of Dr. Brené Brown’s most popular books. Want book recommendations delivered right to your inbox? Join my email list below.
