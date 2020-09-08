@@ -23,7 +23,7 @@ Etoile was developed by [PressApps](https://pressapps.co), theme [live demo](htt
 
 ## Installation
 
-Install the dependencies with [Bundler](http://bundler.io/):
+Install the dependencies with [Bundler](https://bundler.io/):
 
 ```bash
 bundle install
@@ -47,13 +47,13 @@ Add your site and author details in `_config.yml`:
 # Site settings
 title: Étoile
 description: Magazine Jekyll theme for writers and bloggers.
-url: # Site base hostname & protocol, e.g. http://example.com
+url: # Site base hostname & protocol, e.g. https://example.com
 baseurl: "" # Site subpath, e.g. /blog
 logo_image:
   dark: # Dark logo e.g logo-dark.svg upload to /uploads/ folder, used in header, mobile navigation and page sidebar About widget
   light: # Light logo e.g. logo-light.svg upload to /uploads/ folder, used in footer About widget
 permalink: /:title/ # Permalink URLs structure, for permalink style options see: https://jekyllrb.com/docs/permalinks/
-date_format: "%B %-d, %Y" # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+date_format: "%B %-d, %Y" # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 uploads: /uploads/ # Path to post content assets directory i.e post images, pdfs etc
 paginate: 7 # Number of posts displayed on blog page
 paginate_path: "/blog/:num/" # Blog path
@@ -61,7 +61,7 @@ google_analytics: # Google analytics code, get your code here https://www.google
 disqus:
   shortname: # Disqus comments shortname, requires Disqus account https://disqus.com/
 
-instagram_accesstoken: # Generate token here: http://instagram.pixelunion.net/
+instagram_accesstoken: # Generate token here: https://instagram.pixelunion.net/
 
 footer: # Default footer image settings
   copyright: Made by a <a href="https://ivanchromjak.com/">human</a> somewhere on the planet earth.
@@ -180,11 +180,11 @@ Embed local videos:
 ```html
 <video controls playsinline uk-video="automute: true">
   <source
-    src="http://www.quirksmode.org/html5/videos/big_buck_bunny.mp4"
+    src="https://www.quirksmode.org/html5/videos/big_buck_bunny.mp4"
     type="video/mp4"
   />
   <source
-    src="http://www.quirksmode.org/html5/videos/big_buck_bunny.ogv"
+    src="https://www.quirksmode.org/html5/videos/big_buck_bunny.ogv"
     type="video/ogg"
   />
 </video>
@@ -194,7 +194,7 @@ Embed YouTube videos:
 
 ```html
 <iframe
-  src="http://www.youtube.com/embed/YE7VzlLtp-4?autoplay=0&amp;showinfo=0&amp;rel=0&amp;modestbranding=1&amp;playsinline=1"
+  src="https://www.youtube.com/embed/YE7VzlLtp-4?autoplay=0&amp;showinfo=0&amp;rel=0&amp;modestbranding=1&amp;playsinline=1"
   width="600"
   height="340"
   frameborder="0"
