@@ -28,8 +28,8 @@
 }
 
 .service-background-img {
-  height: 500px;
-  width: 1000px;
+  max-height: 500px;
+  max-width: 1000px;
 }
 
 .service-title {
@@ -37,4 +37,10 @@
   padding: 20px;
   border: solid;
   margin: 20px 130px;
+}
+
+@media (max-width: 959px) {
+  .no-padding-left {
+    padding-left: 0px;
+  }
 }
