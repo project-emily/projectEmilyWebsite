@@ -1,9 +1,11 @@
 // Modify primary template color
 $global-primary-background: #de7a93;
 // Modify body font
-$global-font-family: 'Lora', serif; 
+$global-font-family: "Lora", serif;
 // Modify article title font
-$aticle-title-font-family: 'ZCOOL XiaoWei', serif;
+$aticle-title-font-family: "Lora", serif;
+// old font
+// $aticle-title-font-family: 'ZCOOL XiaoWei', serif;
 
 // Theme variables
 $global-secondary-background: #121212;
@@ -53,7 +55,7 @@ $form-large-font-size: $global-font-size;
 
 $button-text-transform: uppercase;
 $button-border-width: 0;
-$button-large-font-size: 14px;;
+$button-large-font-size: 14px;
 
 $margin-large-margin: 40px;
 $margin-large-margin-l: 40px;
@@ -90,7 +92,7 @@ $article-meta-font-size: 1.0625rem;
 $article-meta-line-height: 1.6;
 $article-meta-color: $base-body-color;
 
-$icon-button-background:                         $background-dark;
+$icon-button-background: $background-dark;
 $icon-button-color: #fff;
 $icon-button-hover-color: #fff;
 $icon-button-active-color: #fff;
@@ -114,7 +116,7 @@ $navbar-background: #fff;
 $navbar-nav-item-color: $color-dark;
 $navbar-nav-item-hover-color: $global-primary-background;
 $navbar-nav-item-active-color: $global-primary-background;
-$navbar-nav-item-font-size: .75rem;
+$navbar-nav-item-font-size: 0.75rem;
 $navbar-nav-item-text-transform: none;
 $navbar-nav-item-font-family: $font-san-serif;
 $navbar-toggle-color: $base-heading-color;

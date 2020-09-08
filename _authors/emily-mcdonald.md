@@ -1,6 +1,6 @@
 ---
 layout: author
-title: About Me
+title: Emily McDonald
 username: Emily
 default: true
 image: /img/PE-headshot.JPG

@@ -6,17 +6,20 @@ layout: full
 
 {% include section-featured.html title="Featured Story" %}
 
+{% include section-author.html author="Emily" title="Hi, I’m Emily." text="You probably already guessed my name.<br />
+What you may not have guessed is that I love books.<br />
+Oh, you figured that out too?<br />
+I guess I’m pretty easy to read. (wink)"
+ %}
+
+{% include section-mailchimp.html title="Newsletter Signup" text="Get book reviews delivered right to your inbox." button_text="Support Us" %}
+
 {% include section-spotlight.html title="Spotlight" %}
 
-{% include section-mailchimp.html title="Newsletter Signup" text="Sign up for our weekly newsletter through Mailchimp and stay up to date with what is happening in the city." button_text="Support Us" %}
+<!-- {% include section-latest.html title="Latest Articles" limit="4" more="More Articles" %} -->
 
-{% include section-latest.html title="Latest Articles" limit="4" more="More Articles" %}
+<!-- {% include section-ad.html title="Advertisement" image="https://via.placeholder.com/800x180/f4f4f4/fff.png?text=+" url="#" blank="true" %} -->
 
-{% include section-ad.html title="Advertisement" image="https://via.placeholder.com/800x180/f4f4f4/fff.png?text=+" url="#" blank="true" %}
+<!-- {% include section-instagram.html title="Latest On Instagram" cols="4" count="4" gutter="true" %} -->
 
-{% include section-instagram.html title="Latest On Instagram" cols="4" count="4" gutter="true" %}
-
-{% include section-cta.html title="Interested in having your book reviewed on Project Emily?" text="Ready to utilize my content marketing services to grow your business?<br />Have ideas of books I should cover on Project Emily?
-" button_text="Let’s talk!" button_url="/contact/" blank="true" %}
-
-{% include section-author.html author="Emily" title="Hello, I am Emily! Welcome to my blog." %}
+{% include section-cta.html title="Interested in having your book reviewed on Project Emily?"  button_text="Let’s talk!" button_url="/contact/" blank="true" %}

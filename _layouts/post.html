@@ -58,7 +58,7 @@ page.author | first %} {% else %} {% assign author = site.authors | where:
         itemscope
         itemtype="http://schema.org/Person"
       >
-        <b
+        <!-- <b
           >{{ site.strings.author_by | default: 'By' }}
           <span itemprop="name"
             ><span itemprop="name"
@@ -67,7 +67,7 @@ page.author | first %} {% else %} {% assign author = site.authors | where:
               ></span
             ></span
           ></b
-        >
+        > -->
       </div>
       {% endif %} {% endif %}
     </div>
@@ -95,11 +95,16 @@ page.author | first %} {% else %} {% assign author = site.authors | where:
   </div>
 </article>
 
-{% if page.related %}
+<div class="uk-container uk-container-small uk-margin-bottom">
+  {% include section-spotlight.html title="Spotlight" %}
+</div>
+
+<!-- {% if page.related %}
 <div class="uk-container uk-container-small uk-margin-bottom">
   {% include related.html %}
 </div>
-{% endif %} {% if site.disqus.shortname %}
+{% endif %} -->
+{% if site.disqus.shortname %}
 <div class="uk-container uk-container-small">
   <hr class="uk-margin-remove-top uk-margin-medium-bottom" />
 </div>
