@@ -5,7 +5,7 @@ image: ../uploads/img/blogs/brene-brown's-books/books-with-plant.JPG
 tags: [spotlight]
 hidden: false
 author: Emily
-added-excerpt: I think I’m a little late to the game. Reese Witherspoon’s Book Club, in collaboration with her media company, Hello Sunshine, has been recommending soon-to-be best-sellers since Summer 2017. But it wasn’t until this year that I realized just how phenomenal her online book club picks are, and now I feel like I’ve struck gold.
+added-excerpt: I first encountered Dr. Brené Brown the same way many did— through her TEDX Talk on shame and vulnerability. One of the most viewed TED videos of all time, Brown’s relatable sense of humor and Texan charm made everyone forget they were watching a lecture from a Ph. D and researcher.
 ---
 
 <style> em {color: black;} p a {color: #f0506e;}</style>
