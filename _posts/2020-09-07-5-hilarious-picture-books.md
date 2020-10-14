@@ -2,7 +2,7 @@
 title: 5 Hilarious Picture Books Your Preschooler (and You!) Will Love
 image: ../uploads/img/blogs/hilarious-picture-books/emily-reading-to-kid.JPG
 # categories: [kids, fiction, nonfiction]
-tags: [spotlight]
+tags: []
 hidden: false
 author: Emily
 added-excerpt: When it comes to reading picture books with kids, reading the same stories over and over can become somewhat of a drag. Stories intent on teaching a lesson or introducing a new concept certainly have their place, but sometimes your kids (and you) just need a laugh.

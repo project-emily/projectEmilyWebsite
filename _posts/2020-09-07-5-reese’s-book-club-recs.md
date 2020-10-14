@@ -2,7 +2,7 @@
 title: 5 Reese’s Book Club Recs that Captivated Me this Year
 image: ../uploads/img/blogs/5-reese's-book-club-recs/holding-such-a-fun-age.jpg
 # categories: [business]
-tags: [featured, spotlight]
+tags: [spotlight]
 hidden: false
 author: Emily
 added-excerpt: I think I’m a little late to the game. Reese Witherspoon’s Book Club, in collaboration with her media company, Hello Sunshine, has been recommending soon-to-be best-sellers since Summer 2017. But it wasn’t until this year that I realized just how phenomenal her online book club picks are, and now I feel like I’ve struck gold.
