@@ -2,7 +2,7 @@
 title: 5 Middle Grade Novels I Read in 2020 That I’ll Be Recommending Forever
 image: ../uploads/img/blogs/middle-grade-novels/middle-grad-epost.jpg
 # categories: [business]
-tags: [featured, spotlight]
+tags: [spotlight]
 hidden: false
 author: Emily
 added-excerpt: One of my favorite parts of my job as a youth librarian is recommending books to young readers, especially middle grade readers around ages 9-12. I’ve been recommending my trusty old classics like <i>Harriet the Spy</i>, <i>The Giver</i>, and <i>Matilda</i> for as long as I can remember.

@@ -2,7 +2,7 @@
 title: A Quick Rundown of Brené Brown’s 5 Most Popular Books
 image: ../uploads/img/blogs/brene-brown's-books/books-with-plant.JPG
 # categories: [business]
-tags: [spotlight]
+tags: []
 hidden: false
 author: Emily
 added-excerpt: I first encountered Dr. Brené Brown the same way many did— through her TEDX Talk on shame and vulnerability. One of the most viewed TED videos of all time, Brown’s relatable sense of humor and Texan charm made everyone forget they were watching a lecture from a Ph. D and researcher.
