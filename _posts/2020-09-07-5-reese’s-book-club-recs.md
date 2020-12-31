@@ -16,7 +16,7 @@ Don’t worry, this book club isn’t exclusive, nor does it require any sort of
 
 {% include image.html img="../uploads/img/blogs/5-reese's-book-club-recs/eleanor.jpg" href="https://bookshop.org/a/19889/9780735220690" alt="Alt for image" align="left" %}
 
-### [Eleanor Oliphant is Completely Fine by <br>Gail Honeyman](https://bookshop.org/a/19889/9780735220690)
+### [Eleanor Oliphant is Completely Fine by <br>Gail Honeyman](https://bookshop.org/a/19889/9780735220690){:target="\_blank"}
 
 The novel that started it all, Gail Honeyman’s _Eleanor Oliphant is Completely Fine_ was Reese’s very first recommendation. This novel centers around Eleanor, an awkward and intriguing young woman, who works as a finance clerk in Glasgow, Scotland. Eleanor isn’t like other people, and she doesn’t seem to mind. Eleanor is unusually blunt, which doesn’t endear her to her co-workers, but does endear her to the reader.
 
@@ -24,7 +24,7 @@ Laugh-out-loud funny, Eleanor’s literal way of thinking and candid way of spea
 
 {% include image.html img="../uploads/img/blogs/5-reese's-book-club-recs/crawdads.jpeg" href="https://bookshop.org/a/19889/9780735219090" alt="Alt for image" align="right" %}
 
-### [Where the Crawdads Sing by Delia Owens](https://bookshop.org/a/19889/9780735219090)
+### [Where the Crawdads Sing by Delia Owens](https://bookshop.org/a/19889/9780735219090){:target="\_blank"}
 
 In September of 2018, _Where the Crawdad’s Sing_, a debut novel by Delia Owens, took the literary world by storm, and Resse Witherspoon was right there to champion it along. _Where the Crawdads Sing_ sang its way right to the top of the New York Times Bestseller list, where it has remained since its birth. Odds are, you’ve probably heard of this novel, and if you haven’t read it yet, it’s probably because you’re doubtful of whether it will live up to the hype. Allow me to assure you: it actually is as good as everyone says.
 
@@ -32,7 +32,7 @@ A murder mystery set in the marshland of North Carolina, this novel follows Kya 
 
 {% include image.html img="../uploads/img/blogs/5-reese's-book-club-recs/untamed.jpg" href="https://bookshop.org/a/19889/9781984801258" alt="Alt for image" caption="Right aligned image" align="left" %}
 
-### [Untamed by Glennon Doyle](https://bookshop.org/a/19889/9781984801258)
+### [Untamed by Glennon Doyle](https://bookshop.org/a/19889/9781984801258){:target="\_blank"}
 
 The third memoir from Glennon Doyle, _Untamed_ is written in essay-style stories and personal reckonings. _Untamed_ begins with the story of Tabitha the cheetah, a tamed creature Doyle observes on a trip to the zoo with her daughters. Tabitha the cheetah is the main attraction in the cheetah run experience— where Tabitha, following the lead of her friend Minnie the golden retriever, chases a dirty stuffed animal attached to the back of a jeep, to illustrate her wild speed to the crowds. Tabitha was raised in captivity, she has never seen the wild, yet she still has wildness in her, clawing its way out.
 
@@ -40,7 +40,7 @@ Tabitha’s existence has been diminished to that of a golden retriever, and the
 
 {% include image.html img="../uploads/img/blogs/5-reese's-book-club-recs/such-a-fun-age.jpg" href="https://bookshop.org/a/19889/9780525541905" alt="Alt for image" align="right" %}
 
-### [Such a Fun Age by Kiley Reid](https://bookshop.org/a/19889/9780525541905)
+### [Such a Fun Age by Kiley Reid](https://bookshop.org/a/19889/9780525541905){:target="\_blank"}
 
 It’s been a while since a book enchanted me so deeply that I found it difficult to put it down and go to sleep. Funny and complex, Kiley Reid’s debut novel consumed my thoughts from first page to last and it did not give my mind any rest until it was completed. A modern tale of narcissistic internet personalities and viral videos gone wrong, this novel follows Emira Tucker, a young Black woman post-college, but pre-grown-up-job-with-health-insurance who works as a babysitter for a well-off white family in Philadelphia. Emira is jolted from her almost contented state one night when a grocery store security guard racially profiles her, humiliating and shaking Emira.
 
@@ -48,7 +48,7 @@ This night marks more than one shift in Emira’s life, including meeting the cu
 
 {% include image.html img="../uploads/img/blogs/5-reese's-book-club-recs/the-giver-of-stars.jpg" href="https://bookshop.org/a/19889/9780399562488" alt="Alt for image" align="left" %}
 
-### [The Giver of Stars by Jojo Moyes](https://bookshop.org/a/19889/9780399562488)
+### [The Giver of Stars by Jojo Moyes](https://bookshop.org/a/19889/9780399562488){:target="\_blank"}
 
 It’s a novel about librarians— how could I possibly resist? These aren't the quiet, cardigan wearing, tea drinking sort you may be thinking of. These are foul-mouthed, tough as nails women inspired by the real-life packhorse librarians of the Appalachian Mountains. This novel by Jojo Moyes (#1 Bestselling author of _Me Before You_) centers around Alice Van Cleve, a newlywed British woman who moves to the home of her new American husband.
 

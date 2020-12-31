@@ -14,7 +14,7 @@ You can’t exist within the world of books and not know about Elizabeth Gilbert
 
 {% include image.html img="../uploads/img/blogs/5-elizabeth-gilbert-books/pilgrims.jpg" href="https://bookshop.org/a/19889/9780143113379" alt="Alt for image" align="left" %}
 
-### [Pilgrims](https://bookshop.org/a/19889/9780143113379)
+### [Pilgrims](https://bookshop.org/a/19889/9780143113379){:target="\_blank"}
 
 I’d wager that nearly every author of fiction that you admire has written a collection of short stories. Though not all of them end up published, and not all of them are worth publication, Elizabeth Gilbert’s _Pilgrims_, however, turns out to be completely wonderful. These 12 short stories are full of nature, power, relationship, sex, and truth. Each story more captivating than the last, these stories leave you aching for just a little more.
 
@@ -22,7 +22,7 @@ Gilbert breathes life into her characters so that they feel fully developed and 
 
 {% include image.html img="../uploads/img/blogs/5-elizabeth-gilbert-books/stern-men.jpg" href="https://bookshop.org/a/19889/9780143114697" alt="Alt for image" align="right" %}
 
-### [Stern Men](https://bookshop.org/a/19889/9780143114697)
+### [Stern Men](https://bookshop.org/a/19889/9780143114697){:target="\_blank"}
 
 Stern Men is a fictional peek into a life and culture I’ve never read about before now. Ruth Thomas is a young native of a small fishing island off the coast of Maine, where lobstermen rule and reign over their territories with violent fervor. Ruth returns to the island as a young adult after attending boarding school. Ruth is smart, funny, and a lot more capable than she is given credit for. Though encouraged to leave the island for a college education, Ruth was raised on and by this island, and she isn’t going anywhere. She isn’t sure what she’s going to do with her life, but whatever it is, it has to be on Fort Niles.
 
@@ -30,7 +30,7 @@ We start to understand our heroine a little bit more as the stories of Ruth’s 
 
 {% include image.html img="../uploads/img/blogs/5-elizabeth-gilbert-books/the-signature-of-all-things.jpg" href="https://bookshop.org/a/19889/9780143125846" alt="Alt for image" align="left" %}
 
-### [The Signature of All Things](https://bookshop.org/a/19889/9780143125846)
+### [The Signature of All Things](https://bookshop.org/a/19889/9780143125846){:target="\_blank"}
 
 Set in the beginning of the 19th century, this _The Signature of All Things_ follows Alma, the daughter of a shrewd botanist and businessman. She grows up with the best formal education a woman could receive, along with an extensive education in botany and plant-life. Alma goes about her days in her carefully designed routines, and she doesn’t foresee any changes. Late in her life, Alma never imagines that she will fall in love and marry— it seems that matrimony just isn’t in the cards for a strong and independent woman like her.
 
@@ -38,7 +38,7 @@ Alma is logical and methodical, like any good scientist. But when Alma is confro
 
 {% include image.html img="../uploads/img/blogs/5-elizabeth-gilbert-books/the-last-american-man.jpg" href="https://bookshop.org/a/19889/9780142002834" alt="Alt for image" align="right" %}
 
-### [The Last American Man](https://bookshop.org/a/19889/9780142002834)
+### [The Last American Man](https://bookshop.org/a/19889/9780142002834){:target="\_blank"}
 
 The only nonfiction book on this list, _The Last American Man_ is the true life story of Gilbert’s friend Eustace Conway, a true mountain man and the perfect symbol of the capable and self-reliant American man. Eustace leaves home as a teenager to live alone in the Appalachian mountains, where he finds strength and solace. He eats what he finds and hunts, and even makes his own clothes. Eustace has a vision for a new world, a one in which men and women respect the earth, refuse unnecessary materialistic comforts, and learn to provide for themselves through the generous earth alone.
 
@@ -46,7 +46,7 @@ Eustace is a big dreamer, and he is sure that he can convince the entire nation 
 
 {% include image.html img="../uploads/img/blogs/5-elizabeth-gilbert-books/city-of-girls.jpg" href="https://bookshop.org/a/19889/9781594634741" alt="Alt for image" align="left" %}
 
-### [City of Girls](https://bookshop.org/a/19889/9781594634741)
+### [City of Girls](https://bookshop.org/a/19889/9781594634741){:target="\_blank"}
 
 And finally, Elizabeth Gilbert’s most recent publication, _City of Girls_. Reading _City of Girls_ sort of feels like eating ice cream, a delicious and extravagant treat. The novel follows Vivian, a wide-eyed and silly nineteen-year-old who moves to New York City in the 1940s, looking for a life of fun and excitement. Vivian moves into The Lily Playhouse, a charming though not glamorous establishment for cheap and lively musicals, owned and run by Vivian’s homely and amusing Aunt Peg. The playhouse is enchanting, and so are its inhabitants. Vivian befriends Celia, a gorgeous and leggy showgirl, and a few other alluring characters. Vivian falls into a thrilling regimen of dancing, booze, and sex. Vivian isn’t a bad girl, really, but she isn’t too worried about being good, either. Making costumes by day and partying by night, Vivian finds her place in New York and at The Lily.
 

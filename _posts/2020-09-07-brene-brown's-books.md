@@ -16,7 +16,7 @@ Dr. Brown is a qualitative researcher, and her books are full of stories from in
 
 {% include image.html img="../uploads/img/blogs/brene-brown's-books/the-gifts.jpg" href="https://bookshop.org/a/19889/9781592858491" alt="Alt for image" align="left" %}
 
-### [The Gifts of Imperfection](https://bookshop.org/a/19889/9781592858491)
+### [The Gifts of Imperfection](https://bookshop.org/a/19889/9781592858491){:target="\_blank"}
 
 If you’re interested in a deep-dive into Brown’s work, you should start here. Authenticity and acceptance are at the center of _The Gifts_, and it is foundational understanding if you’re interested in exploring her research in vulnerability and courage. _The Gifts_ is an important read for any self-diagnosed perfectionists out there, and for those who love them. In _The Gifts of Imperfection_, Brown offers 10 guideposts on what it takes to cultivate true authenticity in your life and the things that often stand in the way.
 
@@ -24,7 +24,7 @@ Through years of qualitative research through in-depth interviews, Brown has dis
 
 {% include image.html img="../uploads/img/blogs/brene-brown's-books/daring-greatly.jpg" href="https://bookshop.org/a/19889/9781592408412" alt="Alt for image" align="right" %}
 
-### [Daring Greatly](https://bookshop.org/a/19889/9781592408412)
+### [Daring Greatly](https://bookshop.org/a/19889/9781592408412){:target="\_blank"}
 
 If you only read one of Brown’s books, _Daring Greatly_ should be the one. The heart of Brown’s work and her TED Talks, cultivating vulnerability and tackling shame are at the center of _Daring Greatly_. **Daring greatly** is an expression for choosing courage in emotional vulnerability, getting its name from Teddy Roosevelt’s _The Man in the Arena_ quote:
 
@@ -34,7 +34,7 @@ Brown points out that while our culture consistently tries to convince us that v
 
 {% include image.html img="../uploads/img/blogs/brene-brown's-books/rising-strong .jpg" href="https://bookshop.org/a/19889/9780812985801" alt="Alt for image" align="left" %}
 
-### [Rising Strong](https://bookshop.org/a/19889/9780812985801)
+### [Rising Strong](https://bookshop.org/a/19889/9780812985801){:target="\_blank"}
 
 My personal favorite of Brown’s books, _Rising Strong_ continues fleshing out her research on how the wholehearted live. _Daring Greatly_ and _Rising Strong_ work sort of like a team, and I wouldn't recommend reading one without the other. If you’re like me, you may come across the ideas of Daring Greatly and think to yourself: _This vulnerability stuff sounds great...until I fall on my face and it hurts like hell_. A continuation of the principles of wholehearted living, Rising Strong addresses the inevitable falls that accompany daring greatly.
 
@@ -49,7 +49,7 @@ The next step in understanding the wholehearted is understanding the way they ha
 
 {% include image.html img="../uploads/img/blogs/brene-brown's-books/braving-the-wilderness.jpg" href="https://bookshop.org/a/19889/9780812985818" alt="Alt for image" align="right" %}
 
-### [Braving the Wilderness](https://bookshop.org/a/19889/9780812985818)
+### [Braving the Wilderness](https://bookshop.org/a/19889/9780812985818){:target="\_blank"}
 
 _Braving the Wilderness_ is sort of a lone wolf among Brown’s books and can be read at any point in your exploration of her work. While belonging and vulnerability are common themes in Brown’s research, _Braving the Wilderness_ centers on what it looks like to find true belonging and authenticity when you’re standing alone.
 
@@ -57,7 +57,7 @@ I had the opportunity to hear Brown speak on her national book tour for _Braving
 
 {% include image.html img="../uploads/img/blogs/brene-brown's-books/dare-to-lead.jpg" href="https://bookshop.org/a/19889/9780399592522" alt="Alt for image" align="left" %}
 
-### [Dare to Lead](https://bookshop.org/a/19889/9780399592522)
+### [Dare to Lead](https://bookshop.org/a/19889/9780399592522){:target="\_blank"}
 
 Brown’s most recently published book, _Dare to Lead_ is focused on bringing the principles of _Daring Greatly_ and _Rising Strong_ into leadership. I loved _Dare to Lead_ so much that the second I finished it, I bought a copy for all of my favorite leaders. _Dare to Lead_ is the culmination of Brown’s research on vulnerability and courage, with practical applications especially for leadership settings. This book is about creating a culture of honesty, empathy, and connection in a vast variety of organizations and workplaces.
 
