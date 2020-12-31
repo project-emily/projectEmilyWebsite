@@ -2,7 +2,7 @@
 title: 5 of My Favorite Books by Elizabeth Gilbert (That Aren’t Eat Pray Love)
 image: ../uploads/img/blogs/5-elizabeth-gilbert-books/emily-holding-signature-of-all-things.JPG
 # categories: [business]
-tags: [featured, spotlight]
+tags: [spotlight]
 hidden: false
 author: Emily
 added-excerpt: You can’t exist within the world of books and not know about Elizabeth Gilbert’s <i>Eat Pray Love</i>. The memoir was a phenomenon, even garnering a film adaptation starring Julia Roberts (as is true most of the time, the book is about a billion times better than the movie). <i>Eat Pray Love</i> became so popular that it became somewhat of a joke— just another example of a white woman on a generic journey to rediscover herself in the middle of her life.
