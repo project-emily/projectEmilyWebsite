@@ -18,4 +18,4 @@ What you may not have guessed is that I love books.
 Oh, you figured that out too?  
 I guess I’m pretty easy to read. (wink)
 
-I live with my best friend (who I happen to be married to) in the Texas hill country. A children’s librarian, I love reading and recommending books for readers of all ages. I also write marketing copy for book sellers so that they can bring attention to their books in the same way that I do in Project Emily.
+I live with my best friend (who I happen to be married to) in the Texas hill country. A former librarian, I love reading and recommending books for readers of all ages. I also write marketing copy for book sellers so that they can bring attention to their books in the same way that I do in Project Emily.
