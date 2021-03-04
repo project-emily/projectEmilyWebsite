@@ -12,7 +12,7 @@ Oh, you figured that out too?<br />
 I guess I’m pretty easy to read. (wink)"
  %}
 
-{% include section-mailchimp.html title="Newsletter Signup" text="Get book reviews delivered right to your inbox." button_text="Support Us" %}
+{% include section-mailchimp.html title="Newsletter Sign-up" text="Get book reviews delivered right to your inbox." button_text="Support Us" %}
 
 {% include section-spotlight.html title="Spotlight" %}
 
