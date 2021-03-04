@@ -3,7 +3,7 @@ layout: author
 title: Emily McDonald
 username: Emily
 default: true
-image: /img/emily-headshot.JPG
+image: img/emily-head-shot.JPG
 # bio: Writer at WorkBox Publishing, parent, aminal lover and avid coffee drinker.
 email: emily@project-emily.com
 instagram: https://www.instagram.com/projectemilyblog/

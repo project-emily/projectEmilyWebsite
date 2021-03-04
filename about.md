@@ -3,7 +3,7 @@ layout: author
 title: About Me
 username: Emily
 default: true
-image: img/emily-headshot.JPG
+image: img/emily-head-shot.JPG
 # bio: Writer at WorkBox Publishing, parent, aminal lover and avid coffee drinker.
 email: emily@project-emily.com
 facebook: https://www.facebook.com/projectemilyblog
