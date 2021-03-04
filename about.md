@@ -3,7 +3,7 @@ layout: author
 title: About Me
 username: Emily
 default: true
-image: /img/emily-headshot.JPG
+image: img/emily-headshot.JPG
 # bio: Writer at WorkBox Publishing, parent, aminal lover and avid coffee drinker.
 email: emily@project-emily.com
 facebook: https://www.facebook.com/projectemilyblog
@@ -18,4 +18,4 @@ What you may not have guessed is that I love books.
 Oh, you figured that out too?  
 I guess I’m pretty easy to read. (wink)
 
-I live with my best friend (who I happen to be married to) in the Texas hill country. A former librarian, I love reading and recommending books for readers of all ages. I also write marketing copy for book sellers so that they can bring attention to their books in the same way that I do in Project Emily.
+I live with my best friend (who I happen to be married to) in the Texas Hill Country. A former librarian, I love reading and recommending books for readers of all ages. I also write marketing copy for book sellers so that they can bring attention to their books in the same way that I do with Project Emily.
