@@ -10,11 +10,17 @@ page.author | first %} {% else %} {% assign author = site.authors | where:
   {% if page.image %}
   <div class="uk-container uk-container-small uk-margin-large-bottom">
     <div class="uk-cover-container">
-      <img
-        src="{% if page.image contains 'http' %}{{ page.image }}{% else %}{{ site.uploads | absolute_url }}{{ page.image }}{% endif %}"
-        alt="{{ page.title }}"
-        data-uk-cover
-      />
+      {% if page.hero-link %}
+      <a href="{{ page.hero-link }}" target="_blank">
+      {% endif %}  
+        <img
+          src="{% if page.image contains 'http' %}{{ page.image }}{% else %}{{ site.uploads | absolute_url }}{{ page.image }}{% endif %}"
+          alt="{{ page.title }}"
+          data-uk-cover
+        />
+      {% if page.hero-link %}  
+      </a>
+      {% endif %}
       <canvas width="1000" height="500"></canvas>
     </div>
   </div>
@@ -47,7 +53,11 @@ page.author | first %} {% else %} {% assign author = site.authors | where:
       <h1
         class="uk-article-title uk-margin-small-top uk-margin-bottom article-title-font"
       >
+      {% if page.title-link %}
+        <a href={{ page.title-link }} target="_blank">{{ page.title | escape }}</a>
+        {% else %}
         {{ page.title | escape }}
+        {% endif %}  
       </h1>
 
       {% if page.description %}

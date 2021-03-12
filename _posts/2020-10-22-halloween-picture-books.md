@@ -2,7 +2,7 @@
 title: "Story Time Selections: My 10 Favorite Halloween Picture Books"
 image: ../uploads/img/blogs/halloween-picture-books/halloween-books.JPG
 # categories: [business]
-tags: [spotlight]
+tags: []
 hidden: false
 author: Emily
 added-excerpt: It’s the best time of year for story time! From now ‘til January, my story time book selections will be guided by the calendar, with all things Halloween, Thanksgiving, and Christmas on the way. I love choosing holiday books for story times, and Halloween is no exception. Halloween is extra special because it involves my little library patrons all dressed up in their costumes of choice.
