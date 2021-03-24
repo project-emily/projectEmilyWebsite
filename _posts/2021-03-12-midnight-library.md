@@ -2,7 +2,7 @@
 title: "The Midnight Library by Matt Haig"
 image: ../uploads/img/blogs/midnight-library/midnight-library.JPG
 # categories: [business]
-tags: [featured, spotlight]
+tags: [spotlight]
 hidden: false
 author: Emily
 added-excerpt: Have you ever wondered what your life would be like if you had made different choices? Wandered down another path? Opportunities you passed up, relationships you left behind, paths you didn’t take. But what if you could see the way these other choices would have played out— what if you could live the life you didn’t choose? <i>The Midnight Library</i> explores all of these ideas and more in this novel about life, death, choice, possibility, and hope.
