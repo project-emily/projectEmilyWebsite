@@ -2,7 +2,7 @@
 title: "Project Designing Your Life"
 image: ../uploads/img/blogs/project-designing-your-life/designing-your-life.jpg
 # categories: [business]
-tags: [featured, spotlight]
+tags: [spotlight]
 hidden: false
 author: Emily
 added-excerpt: We all love good design. You probably find yourself appreciating good design every day. There’s nothing quite like the glory of an airplane, a perfect pair of jeans, or the simple satisfaction of a perfect chair. The smart phone you hold in your hand was one of the most carefully designed items we’ve ever seen. Maybe even more so, you find yourself getting frustrated over poor design. You can’t always put your finger on it, but something in your brain knows when the curtains in the restaurant are hung a little too high, the handle of your coffee mug is just a little too thin, or the cut on your suit jacket just isn’t quite right. Design is important. And it doesn’t happen by accident.

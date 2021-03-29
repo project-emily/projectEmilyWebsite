@@ -2,7 +2,7 @@
 title: "Rejecting Chaos: 7 Books About Slowing Down, Managing Stress, and Savoring Life"
 image: ../uploads/img/blogs/rejecting-chaos/rejecting-chaos-cover.jpg
 # categories: [business]
-tags: [spotlight]
+tags: []
 hidden: false
 author: Emily
 added-excerpt: Living in the modern world is a lot. The expectations, the packed schedules, the always-growing, never-ending to-do list. There always seems to be more to do, more to buy, more to become. In a world full of modern conveniences and time-saving devices, you’d think we’d have all the time in the world for slowing down, savoring, and general human <i>being</i>. But instead of embracing this extra time with quality connection and sufficient rest, we cram our schedules with more work, more stuff, more events. A lot of it is good. But most of it is unnecessary.
