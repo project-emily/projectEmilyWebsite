@@ -16,7 +16,7 @@ We all love good design. You probably find yourself appreciating good design eve
 
 Designers use a set of principles to guide their process of brainstorming, prototyping, and innovation. What if we used the very same principles to design our lives?
 
-That’s what authors Bill Burnett and Dave Evans have set out to do. With backgrounds in tech and product design, these professors at the Stanford Design Program created a class in which students learn to use design thinking to create a life that works for them. This class has helped thousands of students to create a life they previously hadn’t even known to hope for.
+That’s what authors Bill Burnett and Dave Evans have set out to teach you to do. With backgrounds in tech and product design, these professors at the Stanford Design Program created a class in which students learn to use design thinking to create a life that works for them. This class has helped thousands of students to create a life they previously hadn’t even known to hope for.
 
 I read _[Designing Your Life: How to Build a Well-Lived, Joyful Life](https://bookshop.org/a/19889/9781101875322){:target="\_blank"}_ by Bill Burnett and Dave Evans and walked through the entire process of designing your life laid out in the book. I did every writing prompt, tried every experiment, and ended up with some interesting results. But first, I had to learn what it meant to think like a designer.
 
@@ -68,5 +68,7 @@ Other life design experiments included mind map brainstorming, designing multipl
 
 Overall, I highly recommend this book to anyone who feels like their Life Design could use some improvement. Whether that be a major overhaul, like a career change, or just a few smaller shifts, like finding more ways to work outdoors, this book will steer you in the right direction.
 You do not have to have [the workbook](https://bookshop.org/a/19889/9781524761813){:target="\_blank"} to get the most from this Project, but it is convenient to have for the exercises, especially the Good Time Journal exercise. If you do decide to go through the entire Life Design process, I would love to hear about your experience. You can email me at [emily@project-emily.com](mailto: emily@project-emily.com){:target="\_blank"} or connect with me on Instagram [@projectemilyblog](https://www.instagram.com/projectemilyblog/){:target="\_black"}.
+
+I write about four other books that will help you create the life you dream about. Read about them [here](https://project-emily.com/5-books-that-will-help-you-create-the-life-you-dream-about/){:target="\_blank"}.
 
 Thanks for reading about my Project _[Designing Your Life](https://bookshop.org/a/19889/9781101875322){:target="\_blank"}_ experience. To stay up to date on all my projects and reviews, join my email newsletter below. To follow along with regular updates on the my current project, follow me on [Instagram](https://www.instagram.com/projectemilyblog/){:target="\_black"}.
