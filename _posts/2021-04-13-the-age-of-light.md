@@ -33,6 +33,6 @@ To be honest, I had never heard of Lee Miller or Man Ray before reading this boo
 
 ## Is This Novel for You?
 
-This novel is full of gorgeous paradoxes: somehow both serious and light-hearted, sexy and subdued, beautiful and gritty. If you enjoy true stories of strong, complex women, this novel is for you. _The Age of Light_ may stir questions within yourself about your own thoughts on art and love. I created a discussion guide to use with this book, including eight thoughtful questions over the story and characters. You can use this guide with a book club or by yourself as journaling prompts. You can access my free discussion guide here.
+This novel is full of gorgeous paradoxes: somehow both serious and light-hearted, sexy and subdued, beautiful and gritty. If you enjoy true stories of strong, complex women, this novel is for you.
 
 Thank you for reading this review of Whitney Scharer’s _[The Age of Light](https://bookshop.org/a/19889/9780316524148){:target="\_blank"}_. To keep up with all of my book reviews, join my email newsletter below.
