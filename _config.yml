@@ -90,6 +90,9 @@ collections:
     output: true
   category:
     output: true
+  downloads:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -120,3 +123,11 @@ defaults:
       type: category
     values:
       layout: category
+  # _downloads
+  - scope:
+      path: ""
+      type: downloads
+    values:
+      layout: download
+      share: true
+      related: true

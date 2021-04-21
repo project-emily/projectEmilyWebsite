@@ -2,7 +2,7 @@
 title: "5 Books That Will Help You Create the Life You Dream About"
 image: ../uploads/img/blogs/5-books-that-will-help-you-create-the-life-you-dream-about/uncover-the-life-you-want.jpeg
 # categories: [business]
-tags: [featured, spotlight]
+tags: [spotlight]
 hidden: false
 author: Emily
 added-excerpt: Self-help is the most popular and the fastest growing genre in nonfiction literature. It seems like most people really want to help themselves. Wading through the sea of self-help books can be daunting, and it’s hard to figure out which ones are really worth your time. I did a deep dive into self-help books geared toward teaching the reader how to uncover the life they want and how to get it. While each of these books may carry the “self-help” label, they are anything but the cheesy, empty promises that accompany most books in the genre. These books are rich, full of great advice, and actionable steps to make your dreams come to life. Here are five books that will help you uncover your dreams and build the life you really want.
