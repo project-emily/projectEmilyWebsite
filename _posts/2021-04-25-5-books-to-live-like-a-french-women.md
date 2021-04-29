@@ -2,7 +2,7 @@
 title: 5 Books You Need to Live Like an Effortlessly Chic French Woman
 image: ../uploads/img/blogs/5-books-to-live-like-a-french-women/5-books-to-live-like-a-french-women.jpg
 # categories: [business]
-tags: [featured, spotlight]
+tags: [spotlight]
 hidden: false
 author: Emily
 added-excerpt: Ah, la magie des femmes françaises. The magic of French women. How are they so wildly chic while making it look like they aren’t even trying? Elegance seems to happen so effortlessly for them. In truth, it isn’t effortless. Through reading each of these books, I’ve learned that there is actually a whole lot of effort involved. But French women make it look effortless, and therein, I think, lies their charm.
