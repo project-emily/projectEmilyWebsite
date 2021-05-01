@@ -1,6 +1,6 @@
 ---
 title: "10 Things I Learned From French Women Don’t Get Fat by Mireille Guiliano"
-image: ../uploads/img/blogs/french-women-dont-get-fat/french-women-don't-get-fat-cookies.jpg
+image: ../uploads/img/blogs/french-women-dont-get-fat/french-women-dont-get-fat-food.jpg
 # categories: [business]
 tags: [featured, spotlight]
 hidden: false
