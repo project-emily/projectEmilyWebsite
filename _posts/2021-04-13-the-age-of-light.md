@@ -2,7 +2,7 @@
 title: "The Age of Light by Whitney Scharer"
 image: ../uploads/img/blogs/the-age-of-light/age-of-light.jpg
 # categories: [business]
-tags: [spotlight]
+tags: []
 hidden: false
 author: Emily
 added-excerpt: Ever wondered what it would be like to work alongside one of the most accomplished artists in history? To learn from them? To serve as a muse, even? Based on the real life story of photographer Lee Miller and her love affair with artist Man Ray, <i>The Age of Light</i> is the story of a woman bound in love and desire and her journey in forging her own path in discovering what it means to create meaningful art.

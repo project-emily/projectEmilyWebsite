@@ -2,7 +2,7 @@
 title: "10 Things I Learned From French Women Don’t Get Fat by Mireille Guiliano"
 image: ../uploads/img/blogs/french-women-dont-get-fat/french-women-dont-get-fat-food.jpg
 # categories: [business]
-tags: [featured, spotlight]
+tags: []
 hidden: false
 author: Emily
 added-excerpt: After studying abroad in the States for a year, Mireille Guiliano returned to France to realize she had inexplicably gained weight. Through careful study and practice, Guiliano had to rediscover her French practices around eating in order to shed the weight and keep it off. Since then, she has been unraveling exactly what it is that helps French women to stay trim. Here are 10 things I learned about eating like a French woman.
