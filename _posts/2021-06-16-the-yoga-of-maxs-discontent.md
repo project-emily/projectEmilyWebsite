@@ -2,7 +2,7 @@
 title: "The Yoga of Max’s Discontent"
 image: ../uploads/img/blogs/the-yoga-of-maxs-discontent/the-yoga-of-maxs-discontent.jpg
 # categories: [business]
-tags: [spotlight]
+tags: []
 hidden: false
 author: Emily
 added-excerpt: How far would you go to find the answers to your big life questions? Max has questions. A lot of them. And he is going to drop everything to find the answers. In this novel by Karan Bajaj, a young man goes to the furthest parts of the world in search of something he may just find within himself.
