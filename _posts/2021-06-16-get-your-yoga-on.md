@@ -2,7 +2,7 @@
 title: "Project Yoga: My Experience Building a Yoga Practice Using the Book, “Get Your Yoga On”"
 image: ../uploads/img/blogs/get-your-yoga-on/hero-image-get-your-yoga-on.jpg
 # categories: [business]
-tags: [spotlight]
+tags: []
 hidden: false
 author: Emily
 added-excerpt: I tried yoga in a desperate attempt to relieve some of my ever present stress, hoping I could find a healthy way to cope with stress, instead of reaching for a glass of wine or Netflix every time I felt anxious. I found a yoga class at my local public library and, since it was free, I figured I did not have anything to lose.
