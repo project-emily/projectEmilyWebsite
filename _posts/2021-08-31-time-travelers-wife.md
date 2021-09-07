@@ -2,7 +2,7 @@
 title: "The Time Traveler’s Wife"
 image: ../uploads/img/blogs/time-travelers-wife/time-travelers-wife.jpeg
 # categories: [business]
-tags: [spotlight, featured]
+tags: [spotlight]
 hidden: false
 author: Emily
 added-excerpt: A love story about married people is a rare one. Most romance novels end with a wedding, as if that wraps up every important thing that could possibly happen with this couple whose love the reader has just become invested in. But really, that is ending a story right when you get to the good stuff. <i>The Time Traveler’s Wife</i>, by Audrey Niffenegger, is one of those stories I return to again and again, one reason being that I love a love story that goes beyond the wedding. <i>The Time Traveler’s Wife</i> is an epic story about a couple’s love which has no end and, somehow, also has no beginning.
