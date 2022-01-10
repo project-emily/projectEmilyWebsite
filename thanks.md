@@ -6,7 +6,7 @@ image: /img/PE-headshot.JPG
 email: emily@project-emily.com
 facebook: https://www.facebook.com/projectemilyblog
 instagram: https://www.instagram.com/projectemilyblog/
-linkedin: https://www.linkedin.com/in/emily-mcdonald-5077a71b5/
+linkedin:
 pinterest: https://www.pinterest.com/ear1340100
 ---
 

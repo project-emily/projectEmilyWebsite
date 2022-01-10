@@ -36,7 +36,7 @@ navbar_primary:
 social_share:
   twitter: false
   facebook: true
-  linkedin: true
+  linkedin: false
   pinterest: true
   reddit: false
 
@@ -50,7 +50,7 @@ social_networks:
   github:
   reddit:
   instagram: https://www.instagram.com/projectemilyblog
-  linkedin: https://www.linkedin.com/in/emily-mcdonald-5077a71b5/
+  linkedin:
   pinterest: https://www.pinterest.com/ear1340100
   # twitter: https://twitter.com/
   vimeo:

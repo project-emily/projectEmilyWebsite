@@ -8,7 +8,7 @@ image: img/emily-head-shot.JPG
 email: emily@project-emily.com
 facebook:
 instagram: https://www.instagram.com/projectemilyblog/
-linkedin: https://www.linkedin.com/in/emily-mcdonald-5077a71b5/
+linkedin:
 pinterest: https://www.pinterest.com/ear1340100
 ---
 
@@ -18,4 +18,4 @@ What you may not have guessed is that I love books.
 Oh, you figured that out too?  
 I guess I’m pretty easy to read. (wink)
 
-I live with my best friend (who I happen to be married to) in the Texas Hill Country. A former librarian, I love reading and recommending books for readers of all ages. I also write marketing copy for book sellers so that they can bring attention to their books in the same way that I do with Project Emily.
+A former children's librarian, I love recommending books for readers of all ages. I read in a wide variety of genre, but nonfiction books are my jam. I live with my husband in the Texas Hill Country.

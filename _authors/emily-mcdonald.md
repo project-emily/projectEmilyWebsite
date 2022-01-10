@@ -7,7 +7,7 @@ image: img/emily-head-shot.JPG
 # bio: Writer at WorkBox Publishing, parent, aminal lover and avid coffee drinker.
 email: emily@project-emily.com
 instagram: https://www.instagram.com/projectemilyblog/
-linkedin: https://www.linkedin.com/in/emily-mcdonald-5077a71b5/
+linkedin:
 pinterest: https://www.pinterest.com/ear1340100
 ---
 
