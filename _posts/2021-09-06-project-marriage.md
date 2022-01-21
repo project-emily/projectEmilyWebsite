@@ -2,7 +2,7 @@
 title: "Project Marriage: My Experience Exploring Unconditional Love Using the Book, “The Love Dare”"
 image: ../uploads/img/blogs/the-love-dare/the-love-dare-cover.jpg
 # categories: [business]
-tags: [spotlight]
+tags: []
 hidden: false
 author: Emily
 added-excerpt: Our wedding day was perfect. Peet and I exchanged vows in an open-air chapel on a warm and windy June day. I wanted to get married in a field or in a church, and somehow I got both. My dress was simple— I cared a lot more about my flowers, which were exquisite. It was Father’s Day. Peet read his vows first. Peet’s vows were incredible. And not just because they were for me. I can say, objectively, they were poetic brilliance. Due to the wind, I was one of about ten people out of the crowd of 250 who actually heard them.

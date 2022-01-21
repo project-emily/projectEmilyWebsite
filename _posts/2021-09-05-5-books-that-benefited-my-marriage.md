@@ -2,7 +2,7 @@
 title: The 5 Books That Have Most Benefited My Marriage
 image: ../uploads/img/blogs/5-books-that-benefited-my-marriage/5-books-that-have-benefited-my-marriage.jpg
 # categories: [business]
-tags: [spotlight]
+tags: []
 hidden: false
 author: Emily
 added-excerpt: Getting married has got to be the most beautiful, most challenging, and most insane thing I have ever done. In this blog post, I dive into my favorite marriage books, covering topics like fairness, spiritual warfare, unconditional love, love languages, and the relationship between love and respect. These books would be helpful for any who is married or would like to be married someday. Marriage is one of the most profoundly wild, beautiful, and difficult things a person can enter. You can’t learn everything you need to know about marriage from books. But it is a good start.

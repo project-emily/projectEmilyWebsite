@@ -2,7 +2,7 @@
 title: "Dreaming, Week 2: Why Bother? By Jennifer Louden"
 image: ../uploads/img/blogs/why-bother/why-bother-cover.jpg
 # categories: [business]
-tags: [spotlight, featured]
+tags: [spotlight]
 hidden: false
 author: Emily
 added-excerpt: In a particularly difficult season of life, Louden found herself confused and dissatisfied. This question of <i>Why Bother?</i> became revolutionary. Why do we choose to bother about life at all? How do we choose which things to bother about, and how do we hold those desires to us when feelings, circumstances, and crises get in the way? Louden offers readers her six-stage discovery of how to engage with your personal bother. <i>Why Bother?</i> is an invitation to discover your true desire and allow that desire to propel you into the next beautiful stage of your life.
