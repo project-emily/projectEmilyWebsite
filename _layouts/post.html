@@ -54,7 +54,7 @@ page.author | first %} {% else %} {% assign author = site.authors | where:
         class="uk-article-title uk-margin-small-top uk-margin-bottom article-title-font"
       >
         {% if page.title-link %}
-        <a href="{{" page.title-link }} target="_blank"
+        <a href="{{ page.title-link }}" target="_blank"
           >{{ page.title | escape }}</a
         >
         {% else %} {{ page.title | escape }} {% endif %}
