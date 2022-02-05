@@ -26,8 +26,8 @@ footer:
         url: /about/
       - title: "Contact"
         url: /contact/
-      - title: "Services"
-        url: /services/
+      # - title: "Services"
+      #   url: /services/
 
   - widget: recent
     title: RECENT POSTS
