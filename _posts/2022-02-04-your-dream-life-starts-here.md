@@ -2,7 +2,7 @@
 title: "Dreaming, Week 5: Your Dream Life Starts Here by Kristina Karlsson"
 image: ../uploads/img/blogs/your-dream-life-starts-here/your-dream-life-starts-here-cover.jpg
 # categories: [business]
-tags: [spotlight, featured]
+tags: [spotlight]
 hidden: false
 author: Emily
 added-excerpt: <i>Your Dream Life Starts Here</i> by Kristina Karlsson is equal parts guide and journal, with a lovely, magazine-esque layout. The lovely presentation shouldn’t be surprising, as the author is the founder of kikki.K, the international Swedish designed stationery and paper goods company. Karlsson made the decision to chase her dreams with reckless abandon, developing a process for annually identifying one’s core values and desires and creating an actionable plan that will lead you to your goals. Including bits and pieces of Karlsson’s own story, this book is less a memoir and mainly focused on stirring up the reader’s own dreams. Each chapter features an inspiring story about dream chasers around the world, including those of Michelle Obama, Sir Richard Branson, and Dr Tererai Trent.

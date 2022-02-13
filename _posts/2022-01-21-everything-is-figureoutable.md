@@ -2,7 +2,7 @@
 title: "Dreaming, Week 3: Everything Is Figureoutable By Marie Forleo"
 image: ../uploads/img/blogs/everything-is-figureoutable/everything-is-figureoutable-cover-2.jpg
 # categories: [business]
-tags: [spotlight]
+tags: []
 hidden: false
 author: Emily
 added-excerpt: "There is no problem in your life, big or small, that is not figureoutable. Marie Forleo wants you to adopt this life-changing philosophy, run with it, and see how it changes every aspect of your life. Marie Forleo is an entrepreneur, philanthropist, and founder of B-School, the online course for entrepreneurs, helping more than 50,000 students create and expand their businesses. <i>Everything is Figureoutable</i> is not about quick fixes, but rather transforming your mindset to embrace this one simple truth: everything is figureoutable."
