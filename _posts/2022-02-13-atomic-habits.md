@@ -1,5 +1,5 @@
 ---
-title: "Rhythms Week 1: Atomic Habits by James Clear"
+title: "Rhythms, Week 1: Atomic Habits by James Clear"
 image: ../uploads/img/blogs/atomic-habits/atomic-habits-cover.jpg
 # categories: [business]
 tags: [spotlight, featured]
