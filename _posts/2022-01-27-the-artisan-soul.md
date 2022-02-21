@@ -2,7 +2,7 @@
 title: "DREAMING, WEEK 4: THE ARTISAN SOUL BY ERWIN RAPHAEL MCMANUS "
 image: ../uploads/img/blogs/the-artisan-soul/the-artisan-soul-cover.jpg
 # categories: [business]
-tags: [spotlight]
+tags: []
 hidden: false
 author: Emily
 added-excerpt: In <i>The Artisan Soul</i>, author Erwin Raphael McManus teaches that the most important work of art is the life we create. McManus is a pastor, author, and creative. This book is about the ways in which we are all artists with the deep need to create. The general principles of creativity can guide us in creating a life that is meaningful and satisfying. It’s important to note that this book is not just for those who consider themselves creatives, in the traditional sense of the word. An artisan life is not just for painters, writers, and musicians. All of us are creative, even those of us who don’t think we are. Made in the image of a Creator makes us, inevitably, creators ourselves.

@@ -21,7 +21,7 @@ google_analytics: "G-V1FBG2HF5K"
 disqus:
   # shortname: https-project-emily-com
 
-instagram_accesstoken:
+# instagram_accesstoken: "IGQVJXUU5Jdk5idjBicFBSTWRhN1lrVHp6bnhFZA2dNUmdWMy1VemZARR242N0ZAHaFVtalBhVUdyTDFHbklaQ3o1SFVHSVV3cl9zSkZAMQTRTS0JhRDFEckliSUE0MEEtQVFPTWtfVDVwOEljLW5YWkJKRAZDZD"
 
 # footer: # Default footer image settings
 #   # copyright: Made by <a href="https://unbound.studio/">human</a> in Bratislava, Slovakia.

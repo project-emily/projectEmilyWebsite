@@ -2,7 +2,7 @@
 title: "Rhythms, Week 1: Atomic Habits by James Clear"
 image: ../uploads/img/blogs/atomic-habits/atomic-habits-cover.jpg
 # categories: [business]
-tags: [spotlight, featured]
+tags: [spotlight]
 hidden: false
 author: Emily
 added-excerpt: <i>Atomic Habits</i> by James Clear is a research-based, highly accessible guide to making and breaking habits. A wildly successful bestseller, this book had quite the tall order to fulfill my expectations for it. Not only did it meet my expectations; it exceeded them. <i>Atomic Habits</i> really is as good as everyone says it is. Atomic habits are the small, regular choices that compound to create sweeping results over a lifetime. Clear explains exactly how to create those habits.
