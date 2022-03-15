@@ -2,7 +2,7 @@
 title: "Rhythms, Week 4: The High 5 Habit by Mel Robbins"
 image: ../uploads/img/blogs/the-high-5-habit/the-high-5-habit-cover.jpg
 # categories: [business]
-tags: [spotlight, featured]
+tags: [spotlight]
 hidden: false
 author: Emily
 added-excerpt: This simple habit is powerful, and Robbins is not short on evidence as to how. Robbins writes about the powerful effect this kind of self-celebration has on people, through stories from her community and her own family. Robbins gets personal, really personal, about the way she has used this tool in some of the most difficult times in her life.

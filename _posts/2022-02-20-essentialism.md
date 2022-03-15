@@ -2,7 +2,7 @@
 title: "Rhythms, Week 2: Essentialism by Greg McKeown"
 image: ../uploads/img/blogs/essentialism/essentialism-cover.jpg
 # categories: [business]
-tags: [spotlight]
+tags: []
 hidden: false
 author: Emily
 added-excerpt: The way of the Essentialist means living by design, not by default. Instead of making choices reactively, the Essentialist deliberately distinguishes the vital few from the trivial many, eliminates the nonessentials, and then removes obstacles so the essential things have clear, smooth passage. In other words, Essentialism is a disciplined, systematic approach for determining where our highest point of contribution lies, then making execution of those things almost effortless.
