@@ -5,7 +5,7 @@ image: ../uploads/img/blogs/own-your-morning/own-your-morning-cover.jpg
 tags: [spotlight]
 hidden: false
 author: Emily
-added-excerpt: <i>Your morning has the potential to express the people, places, things, and feelings that are important to you. But for many of us, the way we spend our time isn’t quite aligned with what truly makes our souls happy. This chapter is all about pinpointing where you to to focus your precious energy.</i>
+added-excerpt: <i>Your morning has the potential to express the people, places, things, and feelings that are important to you. But for many of us, the way we spend our time isn’t quite aligned with what truly makes our souls happy. This chapter is all about pinpointing where you want to focus your precious energy.</i>
 title-link: "https://bookshop.org/a/19889/9781950785469"
 hero-link: https://bookshop.org/a/19889/9781950785469
 ---
