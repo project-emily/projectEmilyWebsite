@@ -2,7 +2,7 @@
 title: "Rhythms, Week 3: Rhythms of Renewal by Rebekah Lyons"
 image: ../uploads/img/blogs/rhythms-of-renewal/rhythms-of-renewal-cover.jpg
 # categories: [business]
-tags: [spotlight]
+tags: []
 hidden: false
 author: Emily
 added-excerpt: Rebekah Lyons is quickly becoming one of my all-time favorite writers. Her first two books, Freefall to Fly and You are Free, chronicle Lyons’ journey through anxiety and panic to a place of peace and purpose. Both are honest and beautiful, and well worth the read, but there wasn’t a lot of guidance on actionable steps to develop a practice of peace.
