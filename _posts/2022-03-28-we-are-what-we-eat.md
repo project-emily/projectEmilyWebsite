@@ -2,7 +2,7 @@
 title: "Food, Week 1: We Are What We Eat by Alice Waters "
 image: ../uploads/img/blogs/we-are-what-we-eat/we-are-what-we-eat-cover.jpg
 # categories: [business]
-tags: [spotlight, featured]
+tags: [spotlight]
 hidden: false
 author: Emily
 added-excerpt: <i>We Are What We Eat</i> is a slow food manifesto, a powerful picture of our prevalent culture around food and the many ways that we are missing out on all that food has to offer to our society. Waters explains the difference between fast food culture and slow food culture, and the values that make up each.
@@ -44,7 +44,7 @@ Another chapter features a story of a prison program where inmates were encourag
 
 ## Food is Beautiful
 
-My favorite slow food value that Water writes about is the value of beauty. I have a high value for beauty in most things I do. When it comes to food, I marvel at the way that God created food with so much beauty, color, and vibrancy. Water writes,
+My favorite slow food value that Waters writes about is the value of beauty. I have a high value for beauty in most things I do. When it comes to food, I marvel at the way that God created food with so much beauty, color, and vibrancy. Waters writes,
 
 _"Beauty is expressed in myriad ways in our lives: through art, poetry, music, architecture, and dance. While specific ideas of beauty are subjective-what’s beautiful to me might not be beautiful to you- there are universal ideas of beauty that arise from nature. Everybody feels the rapture of a sunset, or the wonder of being at the base of a mountain or a waterfall. When you’re in the presence of this kind of universal beauty, you become aware of being held by something bigger, something connected to the mystery of life. Beauty is in our biological makeup. It naturally deepens your awareness and inspires a sense of awe and joy. Finding the beauty in food can change your life."_
 
