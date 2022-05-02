@@ -2,7 +2,7 @@
 title: "Food, Week 2: The Whole Foods Diet by John Mackey"
 image: ../uploads/img/blogs/the-whole-foods-diet/the-whole-foods-diet-cover.jpg
 # categories: [business]
-tags: [spotlight, featured]
+tags: [spotlight]
 hidden: false
 author: Emily
 added-excerpt: In <i>The Whole Foods Diet</i>, authors John Mackey, Alona Pulde, MD, and Matthew Lederman, MD share what they believe to be the definitive guide to the optimum diet for health and wellness. John Mackey is co-founder and CEO of Whole Foods Market. And while he certainly mentions the company in this book, the grocery store is not front and center. Mackey admits that the food values of Whole Foods Market do not align perfectly with her personal food values, though he is still proud of the strides the company has made in pointing consumers toward healthier food. The purpose of the book is not to get readers to shop at Whole Foods; the purpose is to teach readers how to eat the healthiest diet, no matter where they shop.
