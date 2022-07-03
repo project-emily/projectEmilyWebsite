@@ -2,7 +2,7 @@
 title: "Food, Week 3: Bread & Wine by Shauna Niequist"
 image: ../uploads/img/blogs/bread-and-wine/bread-and-wine-cover.jpg
 # categories: [business]
-tags: [spotlight, featured]
+tags: [spotlight]
 hidden: false
 author: Emily
 added-excerpt: From Shauna Niequist, author of <i>Cold Tangerines</i>, <i>Present Over Perfect</i>, and recent release <i>I Guess I Haven’t Learned That Yet</i>, comes <i>Bread & Wine</i>, a collection of delicious essays about life around the table. While food is the guiding theme of this book, the author writes about her life, family, struggles, and wins. Shauna Niequist is one of my favorite authors. Niequist is funny and relatable, her writing style is clear yet distinct. I love the way that she tackles difficult topics with generosity and gentleness. There is something remarkable about the way she writes. It’s as if she perfectly marries poetry and journalism. Her work is direct and clear, while somehow also sparkly and magical. She takes ordinary moments from her life and paints them so vividly, you feel like you can taste them.

@@ -2,7 +2,7 @@
 title: "Food, Week 1: We Are What We Eat by Alice Waters "
 image: ../uploads/img/blogs/we-are-what-we-eat/we-are-what-we-eat-cover.jpg
 # categories: [business]
-tags: [spotlight]
+tags: []
 hidden: false
 author: Emily
 added-excerpt: <i>We Are What We Eat</i> is a slow food manifesto, a powerful picture of our prevalent culture around food and the many ways that we are missing out on all that food has to offer to our society. Waters explains the difference between fast food culture and slow food culture, and the values that make up each.
