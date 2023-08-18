@@ -2,7 +2,7 @@
 title: 10 Picture Books for Back to School
 image: ../uploads/img/blogs/10-back-to-school-books/10-back-to-school-books.png
 # categories: [business]
-tags: [spotlight, featured]
+tags: [spotlight]
 hidden: false
 author: Emily
 added-excerpt: Project Emily is back! After a long break from blogging due to the birth of my baby girl, I’m getting back into the swing of writing, starting with some of my favorite picture books about the first day of school.
