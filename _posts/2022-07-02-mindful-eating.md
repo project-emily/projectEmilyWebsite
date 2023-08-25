@@ -2,7 +2,7 @@
 title: "Food, Week 4: Mindful Eating by Jan Chozen Blays"
 image: ../uploads/img/blogs/mindful-eating/mindful-eating-cover.jpg
 # categories: [business]
-tags: [spotlight]
+tags: []
 hidden: false
 author: Emily
 added-excerpt: Why is it that eating, a practice every human being takes part in several times a day, a practice meant to nourish and fuel our bodies, has become such a point of anxiety, confusion, and shame for so many? Author Jan Chozen Blays sheds some light on that mystery in <i>Mindful Eating</i>, a thorough guide to learning, relearning, and unlearning this basic human functionality.
