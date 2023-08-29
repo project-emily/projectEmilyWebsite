@@ -5,12 +5,12 @@ image: ../uploads/img/blogs/7-picture-books-about-grandparents/7-picture-book-fo
 tags: [spotlight, featured]
 hidden: false
 author: Emily
-added-excerpt: One of the most exciting things about becoming a parent was watching my mom and dad become grandparents. After I announced my pregancny, my parents thought and dreamed about their new roles and carefully mused over their grandparent names. It was so much fun to imagine this new season of their lives and wonder what their relationship with their granddaughter would be like.
+added-excerpt: One of the most exciting things about becoming a parent was watching my mom and dad become grandparents. After I announced my pregnancy, my parents thought and dreamed about their new roles and carefully mused over their grandparent names. It was so much fun to imagine this new season of their lives and wonder what their relationship with their granddaughter would be like.
 ---
 
 <style> em {color: black;} p a {color: #f0506e;}</style>
 
-One of the most exciting things about becoming a parent was watching my mom and dad become grandparents. After I announced my pregancny, my parents thought and dreamed about their new roles and carefully mused over their grandparent names. It was so much fun to imagine this new season of their lives and wonder what their relationship with their granddaughter would be like. With Grandparents’ Day fast approaching, I gathered my 7 favorite picture books about grandparents and grandkids. Each of these books shows the important bond between grandparents and grandchildren and how much fun this relationship can be. Any of these books would make the perfect gift for a new grandparent, or you could even use one as a way of announcing a pregnancy to your baby’s grandparents!
+One of the most exciting things about becoming a parent was watching my mom and dad become grandparents. After I announced my pregnancy, my parents thought and dreamed about their new roles and carefully mused over their grandparent names. It was so much fun to imagine this new season of their lives and wonder what their relationship with their granddaughter would be like. With Grandparents’ Day fast approaching, I gathered my 7 favorite picture books about grandparents and grandkids. Each of these books shows the important bond between grandparents and grandchildren and how much fun this relationship can be. Any of these books would make the perfect gift for a new grandparent, or you could even use one as a way of announcing a pregnancy to your baby’s grandparents!
 
 {% include image.html img="../uploads/img/blogs/7-picture-books-about-grandparents/llama-llama-gram-and-grandpa.jpg" href="https://amzn.to/3sozF5P" alt="Llama Llama Gram and Grandpa by Anna Dewdney" align="left" %}
 
@@ -28,7 +28,7 @@ A sweet, sing-song picture book about the unending magic of grandmas. Grandmas a
 
 ### [My Grandparents Love Me by Claire Freedman](https://amzn.to/3OHWNUh){:target="\_blank"}
 
-In this sweet book by author Claire Freedman, the little zebra is headed to Gran and Grandpa’s for the night. The little zebra loves going to Gran and Grandpa’s house, and feels safe and loved. There is even a special room for little zebra to stay in! Much fun ensues, including baked treats and a trip to the fair. But the little zebra doesn’t just visit Gran and Granpa’s house— they visit little zebra’s house too! This book is perfect for grandparents looking forward to regular visits with their grandchildren.
+In this sweet book by author Claire Freedman, the little zebra is headed to Gran and Grandpa’s for the night. The little zebra loves going to Gran and Grandpa’s house, and feels safe and loved. There is even a special room for little zebra to stay in! Much fun ensues, including baked treats and a trip to the fair. But the little zebra doesn’t just visit Gran and Grandpa’s house— they visit little zebra’s house too! This book is perfect for grandparents looking forward to regular visits with their grandchildren.
 
 {% include image.html img="../uploads/img/blogs/7-picture-books-about-grandparents/mariana-and-her-familia.jpg" href="https://amzn.to/3OTj29Y" alt="Mariana and Her Familia by Monica Mancillas" align="right" %}
 
