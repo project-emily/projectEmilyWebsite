@@ -2,7 +2,7 @@
 title: 7 Picture Books About Grandparents
 image: ../uploads/img/blogs/7-picture-books-about-grandparents/7-picture-book-for-grandparents-day.png
 # categories: [business]
-tags: [spotlight, featured]
+tags: [spotlight]
 hidden: false
 author: Emily
 added-excerpt: One of the most exciting things about becoming a parent was watching my mom and dad become grandparents. After I announced my pregnancy, my parents thought and dreamed about their new roles and carefully mused over their grandparent names. It was so much fun to imagine this new season of their lives and wonder what their relationship with their granddaughter would be like.

@@ -2,7 +2,7 @@
 title: 10 Picture Books for Back to School
 image: ../uploads/img/blogs/10-back-to-school-books/10-back-to-school-books.png
 # categories: [business]
-tags: [spotlight]
+tags: []
 hidden: false
 author: Emily
 added-excerpt: Project Emily is back! After a long break from blogging due to the birth of my baby girl, I’m getting back into the swing of writing, starting with some of my favorite picture books about the first day of school.
@@ -10,7 +10,7 @@ added-excerpt: Project Emily is back! After a long break from blogging due to th
 
 <style> em {color: black;} p a {color: #f0506e;}</style>
 
-Project Emily is back! After a long break from blogging due to the birth of my baby girl, I’m getting back into the swing of writing, starting with some of my favorite picture books about the first day of school. Books can be so helpful in preparing kids for the shift into a new season, especially if this is their first year in a classroom. While some of these books are specifically aimed at starting kindergarteners, many of them are appropriate for kids of all ages. Whether you have a nervous kindergartnener, a child who is worried about being different than their classmates, or one with fears of a brand new teacher, this book list is for you. Enjoy!
+Project Emily is back! After a long break from blogging due to the birth of my baby girl, I’m getting back into the swing of writing, starting with some of my favorite picture books about the first day of school. Books can be so helpful in preparing kids for the shift into a new season, especially if this is their first year in a classroom. While some of these books are specifically aimed at starting kindergarteners, many of them are appropriate for kids of all ages. Whether you have a nervous kindergartener, a child who is worried about being different than their classmates, or one with fears of a brand new teacher, this book list is for you. Enjoy!
 
 {% include image.html img="../uploads/img/blogs/10-back-to-school-books/we-dont-eat-our-classmates.jpg" href="https://amzn.to/3Qnq6hj" alt="We Don’t Eat Our Classmates by Ryan T. Higgins" align="left" %}
 
