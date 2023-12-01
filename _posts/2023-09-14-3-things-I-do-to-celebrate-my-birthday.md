@@ -2,7 +2,7 @@
 title: "3 Things I Do to Celebrate My Birthday"
 image: ../uploads/img/blogs/3 Things I Do to Celebrate My Birthday/3 Things I Do to Celebrate My Birthday.png
 # categories: [business]
-tags: [spotlight]
+tags: []
 hidden: false
 author: Emily
 added-excerpt: "I recently celebrated my 29th birthday, my first as a mother. I absolutely love celebrating my birthday. The Back-to-School energy and anticipation of the arrival of autumn give this time of year its own special vibe. I love to reflect back on the previous year and spend some time vision casting for the next."
