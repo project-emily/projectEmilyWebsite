@@ -2,7 +2,7 @@
 title: "8 Picture Books that Celebrate the Beginning of Fall"
 image: ../uploads/img/blogs/8-picture-books-that-celebrate-the-beginning-of-fall/8-picture-books-that-celebrate-the-beginning-of-fall.jpg
 # categories: [business]
-tags: [spotlight]
+tags: []
 hidden: false
 author: Emily
 added-excerpt: "I love the seasonal transition from summer to fall, and I especially loved it during my time as a children’s librarian. Summer time was large and bustling crowds, sweaty summer reading themed t-shirts, and piles of summer reading prizes. It was fun, to be sure— I truly loved the summer energy at the library. But just about the time when it became all too much, the older children would go back to school and I was left with my tiny preschoolers. The transition to fall meant smaller groups of kids, cozy sweaters, and all new seasonal material for story time."
