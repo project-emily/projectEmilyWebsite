@@ -2,7 +2,7 @@
 title: "A Love Letter to The Mom Hour"
 image: ../uploads/img/blogs/a-love-letter-to-the-mom-hour/halloween.jpg
 # categories: [business]
-tags: [spotlight]
+tags: []
 hidden: false
 author: Emily
 added-excerpt: "On Halloween night of 2022, with my husband at my side, I pulled my 40-weeks pregnant belly uphill through our neighborhood. The main street is legendary for its trick-or-treating, and it was the perfect night for some hopefully labor-inducing walking. In a black t-shirt dress and white sneakers, I walked confidently, though not quickly, uphill, past hundreds of costumed trick-or-treaters rushing ghost-covered lawns."
